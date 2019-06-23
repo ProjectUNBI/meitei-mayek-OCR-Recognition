@@ -2,4 +2,4 @@ You need to clone the tensorflow/model from their repository and clone this repo
 
 project se dum internet ta ge zeng nga ga sembani ei ML ge maramda amabu khangde dum try tauraga yaba zeng nge ni.
 
-Kok amasung sum ge photo 13 khak train tauraga zengini. Train model semba loidre.
+Kok amasung sum ge photo 13 khak train tauraga zengini. Train model semba loidri.
