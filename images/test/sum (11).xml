@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>sum (11).jpg</filename>
+	<path>C:\Users\My\Desktop\MietieMeyekOTC Recognition\images\test\sum (11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>73</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>10</ymin>
+			<xmax>65</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

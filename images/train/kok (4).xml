@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kok (4).jpg</filename>
+	<path>C:\Users\My\Desktop\MietieMeyekOTC Recognition\images\train\kok (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>54</width>
+		<height>43</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kok</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>54</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>

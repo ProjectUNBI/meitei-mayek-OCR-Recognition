@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sum (5).jpg</filename>
+	<path>C:\Users\My\Desktop\MietieMeyekOTC Recognition\images\train\sum (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>74</width>
+		<height>65</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sum</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>69</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>
