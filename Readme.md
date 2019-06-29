@@ -1,4 +1,4 @@
-# MieTieMayek OCR testing
+# MeiTeiMayek OCR testing
 
 project se dum internet ta ge zeng nga ga sembani ei Machine Learning ge maramda amabu khangde dum try tauraga yaba zeng nge ni.
 
